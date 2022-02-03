@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kilian Alves</h1>
-<h3 align="center">A Student from ESGI Paris</h3>
+<h3 align="center">Student at ESGI Paris</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
